@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vko36 T2 Launch a Map with Implicit Intents</string>
+    <string name="giveLoc">Enter a location (lat, lng)</string>
+    <string name="showMap">Show on map</string>
+</resources>
